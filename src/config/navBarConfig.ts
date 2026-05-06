@@ -98,7 +98,7 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 				name: "哔哩哔哩",
 				url: "https://account.bilibili.com/account/home?spm_id_from=333.1387.0.0",
 				external: true,
-				icon: "simple-icons:bilibili"
+				icon: "simple-icons:bilibili",
 			},
 		],
 	});

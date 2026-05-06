@@ -17,7 +17,7 @@ export const siteConfig: SiteConfig = {
 
 	// 站点描述
 	description:
-		"愿你名人如绚丽之花.",
+		"愿你明日如绚丽之花.",
 
 	// 站点关键词
 	keywords: [

@@ -13,7 +13,7 @@ export const siteConfig: SiteConfig = {
 	subtitle: "hcx_sgy",
 
 	// 站点 URL
-	site_url: "https://7a7a68.xyz",
+	site_url: "http://blog.7a7a68.xyz/",
 
 	// 站点描述
 	description:

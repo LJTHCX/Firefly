@@ -16,8 +16,7 @@ export const siteConfig: SiteConfig = {
 	site_url: "http://blog.7a7a68.xyz/",
 
 	// 站点描述
-	description:
-		"愿你明日如绚丽之花.",
+	description: ["愿你明日", "如绚丽之花"].join("\n"),
 
 	// 站点关键词
 	keywords: [

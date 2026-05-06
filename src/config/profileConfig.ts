@@ -21,29 +21,30 @@ export const profileConfig: ProfileConfig = {
 	// `pnpm add @iconify-json/<icon-set-name>`
 	// showName: true 时显示图标和名称，false 时只显示图标
 	links: [
-		{
-			name: "qq",
-			icon: "fa7-brands:qq",
-			url: "https://qm.qq.com/q/ZGsFa8qX2G",
-			showName: false,
-		},
-		{
-			name: "GitHub",
-			icon: "fa7-brands:github",
-			url: "https://github.com/CuteLeaf",
-			showName: false,
-		},
-		{
-			name: "Email",
-			icon: "fa7-solid:envelope",
-			url: "mailto:xiaye@msn.com",
-			showName: false,
-		},
-		{
-			name: "RSS",
-			icon: "fa7-solid:rss",
-			url: "/rss/",
-			showName: false,
-		},
+			{
+				name: "GitHub",
+				url: "https://github.com/LJTHCX",
+				icon: "fa7-brands:github",
+			},
+			{
+				name: "leetcode",
+				url: "https://leetcode.cn/u/7a7a68/",
+				icon: "fa7-brands:leetcode",
+			},
+			{
+				name: "Codeforces",
+				url: "https://codeforces.com/profile/7a7a68",
+				icon: "simple-icons:codeforces",
+			},
+			{
+				name: "洛谷",
+				url: "https://www.luogu.com.cn/user/1736929",
+				icon: "simple-icons:luogu",
+			},
+			{
+			name: "AtCoder",
+			url: "https://atcoder.jp/",
+			icon: "simple-icons:codio", 
+			},
 	],
 };

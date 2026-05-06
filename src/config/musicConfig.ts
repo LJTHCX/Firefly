@@ -54,7 +54,6 @@ export const musicPlayerConfig: MusicPlayerConfig = {
 				artist: "",
 				url: "assets/music/a.mp3",
 				cover: "assets/music/cover/music.jpg",
-				lrc: "assets/music/lrc/a.lrc",
 			},
 		],
 	},

@@ -4,7 +4,7 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 	// 壁纸模式："banner" 横幅壁纸，"overlay" 全屏透明，"none" 纯色背景无壁纸
 	mode: "banner",
 	// 是否允许用户通过导航栏切换壁纸模式，设为false可提升性能（只渲染当前模式）
-	switchable: true,
+	switchable: false,
 	/**
 	 * 背景图片配置
 	 * 图片路径支持三种格式：
@@ -37,25 +37,25 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 	 */
 	src: {
 		// 桌面背景图片（支持单张或多张随机）
-		// desktop: "assets/images/DesktopWallpaper/d1.avif",
-		desktop: [
-			"assets/images/DesktopWallpaper/d1.avif",
-			"assets/images/DesktopWallpaper/d2.avif",
-			"assets/images/DesktopWallpaper/d3.avif",
-			"assets/images/DesktopWallpaper/d4.avif",
-			"assets/images/DesktopWallpaper/d5.avif",
-			"assets/images/DesktopWallpaper/d6.avif",
-		],
+		desktop: "assets/images/DesktopWallpaper/a.jpg",
+		// desktop: [
+		// 	"assets/images/DesktopWallpaper/d1.avif",
+		// 	"assets/images/DesktopWallpaper/d2.avif",
+		// 	"assets/images/DesktopWallpaper/d3.avif",
+		// 	"assets/images/DesktopWallpaper/d4.avif",
+		// 	"assets/images/DesktopWallpaper/d5.avif",
+		// 	"assets/images/DesktopWallpaper/d6.avif",
+		// ],
 		// 移动背景图片（支持单张或多张随机）
-		// mobile: "assets/images/MobileWallpaper/m1.avif",
-		mobile: [
-			"assets/images/MobileWallpaper/m1.avif",
-			"assets/images/MobileWallpaper/m2.avif",
-			"assets/images/MobileWallpaper/m3.avif",
-			"assets/images/MobileWallpaper/m4.avif",
-			"assets/images/MobileWallpaper/m5.avif",
-			"assets/images/MobileWallpaper/m6.avif",
-		],
+		mobile: "assets/images/MobileWallpaper/a.jpg",
+		// mobile: [
+		// 	"assets/images/MobileWallpaper/m1.avif",
+		// 	"assets/images/MobileWallpaper/m2.avif",
+		// 	"assets/images/MobileWallpaper/m3.avif",
+		// 	"assets/images/MobileWallpaper/m4.avif",
+		// 	"assets/images/MobileWallpaper/m5.avif",
+		// 	"assets/images/MobileWallpaper/m6.avif",
+		// ],
 	},
 	// Banner模式特有配置
 	banner: {
@@ -71,17 +71,15 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 			// 是否允许用户通过控制面板切换横幅标题显示
 			switchable: true,
 			// 主页横幅主标题
-			title: "Lovely firefly!",
+			title: "愿你明日如绚丽之花",
 			// 主页横幅主标题字体大小
 			titleSize: "3.8rem",
 			// 主页横幅副标题
 			subtitle: [
-				"In Reddened Chrysalis, I Once Rest",
-				"From Shattered Sky, I Free Fall",
-				"Amidst Silenced Stars, I Deep Sleep",
-				"Upon Lighted Fyrefly, I Soon Gaze",
-				"From Undreamt Night, I Thence Shine",
-				"In Finalized Morrow, I Full Bloom",
+				"翦彩赠相亲，银钗缀凤真",
+				"双双衔绶鸟，两两度桥人",
+				"叶逐金刀出，花随玉指新",
+				"愿君千万岁，无岁不逢春",
 			],
 			// 主页横幅副标题字体大小
 			subtitleSize: "1.5rem",
@@ -91,7 +89,7 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 				// 打字机关闭 → 每次刷新随机显示一条副标题
 				enable: true,
 				// 打字速度（毫秒）
-				speed: 100,
+				speed: 120,
 				// 删除速度（毫秒）
 				deleteSpeed: 50,
 				// 完全显示后的暂停时间（毫秒）
@@ -102,9 +100,9 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 		credit: {
 			enable: {
 				// 桌面端显示横幅图片来源文本
-				desktop: true,
+				desktop: false,
 				// 移动端显示横幅图片来源文本
-				mobile: true,
+				mobile: false,
 			},
 			text: {
 				// 桌面端要显示的来源文本

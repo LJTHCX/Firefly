@@ -3,8 +3,8 @@ title: 铜牌算法
 published: 2026-05-06
 description: 铜牌算法
 image: ./cover.jpg
-tags: [前端, 开发]
-category: 前端开发
+tags: [算法]
+category: 算法
 draft: False
 ---
 

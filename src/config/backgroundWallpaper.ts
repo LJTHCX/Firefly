@@ -4,7 +4,7 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 	// 壁纸模式："banner" 横幅壁纸，"overlay" 全屏透明，"none" 纯色背景无壁纸
 	mode: "banner",
 	// 是否允许用户通过导航栏切换壁纸模式，设为false可提升性能（只渲染当前模式）
-	switchable: false,
+	switchable: true,
 	/**
 	 * 背景图片配置
 	 * 图片路径支持三种格式：
@@ -37,25 +37,24 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 	 */
 	src: {
 		// 桌面背景图片（支持单张或多张随机）
-		desktop: "assets/images/DesktopWallpaper/a.jpg",
-		// desktop: [
-		// 	"assets/images/DesktopWallpaper/d1.avif",
-		// 	"assets/images/DesktopWallpaper/d2.avif",
-		// 	"assets/images/DesktopWallpaper/d3.avif",
-		// 	"assets/images/DesktopWallpaper/d4.avif",
-		// 	"assets/images/DesktopWallpaper/d5.avif",
-		// 	"assets/images/DesktopWallpaper/d6.avif",
-		// ],
+		// desktop: "assets/images/DesktopWallpaper/a.jpg",
+		desktop: [
+			"assets/images/DesktopWallpaper/1.png",
+			"assets/images/DesktopWallpaper/2.png",
+			"assets/images/DesktopWallpaper/3.png",
+			"assets/images/DesktopWallpaper/4.png",
+			"assets/images/DesktopWallpaper/5.png",
+		],
 		// 移动背景图片（支持单张或多张随机）
-		mobile: "assets/images/MobileWallpaper/a.jpg",
-		// mobile: [
-		// 	"assets/images/MobileWallpaper/m1.avif",
-		// 	"assets/images/MobileWallpaper/m2.avif",
-		// 	"assets/images/MobileWallpaper/m3.avif",
-		// 	"assets/images/MobileWallpaper/m4.avif",
-		// 	"assets/images/MobileWallpaper/m5.avif",
+		// mobile: "assets/images/MobileWallpaper/a.jpg",
+		mobile: [
+			"assets/images/DesktopWallpaper/1.png",
+			"assets/images/DesktopWallpaper/2.png",
+			"assets/images/DesktopWallpaper/3.png",
+			"assets/images/DesktopWallpaper/4.png",
+			"assets/images/DesktopWallpaper/5.png",
 		// 	"assets/images/MobileWallpaper/m6.avif",
-		// ],
+		],
 	},
 	// Banner模式特有配置
 	banner: {

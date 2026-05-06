@@ -46,5 +46,10 @@ export const profileConfig: ProfileConfig = {
 			url: "https://atcoder.jp/",
 			icon: "simple-icons:codio", 
 			},
+			{
+			"name": "哔哩哔哩",
+			"url": "https://account.bilibili.com/account/home?spm_id_from=333.1387.0.0",
+			"icon": "simple-icons:bilibili"
+			},
 	],
 };

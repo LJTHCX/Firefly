@@ -71,14 +71,11 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 			// 是否允许用户通过控制面板切换横幅标题显示
 			switchable: true,
 			// 主页横幅主标题
-			title: "愿你明日如绚丽之花",
+			title: "愿你明日如绚丽之花.",
 			// 主页横幅主标题字体大小
 			titleSize: "3.8rem",
 			// 主页横幅副标题
 			subtitle: [
-				"翦彩赠相亲，银钗缀凤真",
-				"双双衔绶鸟，两两度桥人",
-				"叶逐金刀出，花随玉指新",
 				"愿君千万岁，无岁不逢春",
 			],
 			// 主页横幅副标题字体大小

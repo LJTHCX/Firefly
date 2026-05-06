@@ -56,7 +56,7 @@ export const fontConfig = {
 			name: "MiSans Regular",
 			src: "https://unpkg.com/misans@4.1.0/lib/Normal/MiSans-Regular.min.css",
 			family: "MiSans",
-			weight: 500,
+			weight: 450,
 			display: "swap" as const,
 		},
 
@@ -66,7 +66,7 @@ export const fontConfig = {
 			name: "MiSans Semibold",
 			src: "https://unpkg.com/misans@4.1.0/lib/Normal/MiSans-Semibold.min.css",
 			family: "MiSans",
-			weight: 600,
+			weight: 550,
 			display: "swap" as const,
 		},
 	},

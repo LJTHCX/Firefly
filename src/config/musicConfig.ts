@@ -52,9 +52,9 @@ export const musicPlayerConfig: MusicPlayerConfig = {
 			{
 				name: "この世界を愛したい",
 				artist: "",
-				url: "src/assets/music/a.mp3",
-				cover: "src/assets/images/music.jpg",
-				lrc: "src/assets/music/lrc/a.lrc",
+				url: "assets/music/a.mp3",
+				cover: "assets/music/cover/music.jpg",
+				lrc: "assets/music/lrc/a.lrc",
 			},
 		],
 	},

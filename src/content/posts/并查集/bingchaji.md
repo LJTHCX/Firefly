@@ -1,7 +1,7 @@
 ---
 title: 并查集
 published: 2026-04-19
-description: 铜牌算法
+description: 并查集算法介绍
 image: ./cover.jpg
 tags: [算法]
 category: 算法

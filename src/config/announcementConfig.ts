@@ -5,7 +5,7 @@ export const announcementConfig: AnnouncementConfig = {
 	title: "公告",
 
 	// 公告内容
-	content: "留言咱不可用",
+	content: "留言暂不可用",
 
 	// 是否允许用户关闭公告
 	closable: true,

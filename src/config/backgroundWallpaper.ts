@@ -37,24 +37,24 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 	 */
 	src: {
 		// 桌面背景图片（支持单张或多张随机）
-		// desktop: "assets/images/DesktopWallpaper/a.jpg",
-		desktop: [
-			"assets/images/DesktopWallpaper/1.png",
-			"assets/images/DesktopWallpaper/2.png",
-			"assets/images/DesktopWallpaper/3.png",
-			"assets/images/DesktopWallpaper/4.png",
-			"assets/images/DesktopWallpaper/5.png",
-		],
+		desktop: "assets/images/DesktopWallpaper/3.png",
+		// desktop: [
+		// 	"assets/images/DesktopWallpaper/1.png",
+		// 	"assets/images/DesktopWallpaper/2.png",
+		// 	"assets/images/DesktopWallpaper/3.png",
+		// 	"assets/images/DesktopWallpaper/4.png",
+		// 	"assets/images/DesktopWallpaper/5.png",
+		// ],
 		// 移动背景图片（支持单张或多张随机）
-		// mobile: "assets/images/MobileWallpaper/a.jpg",
-		mobile: [
-			"assets/images/DesktopWallpaper/1.png",
-			"assets/images/DesktopWallpaper/2.png",
-			"assets/images/DesktopWallpaper/3.png",
-			"assets/images/DesktopWallpaper/4.png",
-			"assets/images/DesktopWallpaper/5.png",
-		// 	"assets/images/MobileWallpaper/m6.avif",
-		],
+		mobile: "assets/images/DesktopWallpaper/3.png",
+		// mobile: [
+		// 	"assets/images/DesktopWallpaper/1.png",
+		// 	"assets/images/DesktopWallpaper/2.png",
+		// 	"assets/images/DesktopWallpaper/3.png",
+		// 	"assets/images/DesktopWallpaper/4.png",
+		// 	"assets/images/DesktopWallpaper/5.png",
+		// // 	"assets/images/MobileWallpaper/m6.avif",
+		// ],
 	},
 	// Banner模式特有配置
 	banner: {

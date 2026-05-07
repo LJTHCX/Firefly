@@ -4,7 +4,7 @@ published: 2026-04-19
 description: AWC64题解
 image: ./cover.jpg
 tags: [训练,AWC]
-category: 比赛，AWC
+category: AWC
 draft: False
 ---
 

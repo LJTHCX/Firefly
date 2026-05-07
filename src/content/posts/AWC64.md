@@ -1,10 +1,10 @@
 ---
 title: AWC64
-published: 2026-04-19
+published: 2026-05-07
 description: AWC64题解
 image: ./cover.jpg
 tags: [训练,AWC]
-category: AWC
+category: [训练,AWC]
 draft: False
 ---
 

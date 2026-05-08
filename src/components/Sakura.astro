@@ -1,0 +1,39 @@
+---
+import { sakuraConfig } from "@/config/sakuraConfig";
+---
+
+<script>
+  (function() {
+    const config = {
+      sakuraNum: {sakuraConfig.sakuraNum},
+      limitTimes: {sakuraConfig.limitTimes},
+      size: { ...{sakuraConfig.size} },
+      opacity: { ...{sakuraConfig.opacity} },
+      speed: { ...{sakuraConfig.speed} },
+      zIndex: {sakuraConfig.zIndex}
+    };
+
+    // 樱花特效核心代码（请将你的实际樱花动画代码放在这里）
+    // 以下是示例框架
+    function initSakura() {
+      console.log('Sakura effect initialized with config:', config);
+      // 创建樱花元素、动画逻辑等
+    }
+
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', initSakura);
+    } else {
+      initSakura();
+    }
+  })();
+</script>
+
+<style>
+  /* 樱花样式 */
+  .sakura {
+    position: fixed;
+    pointer-events: none;
+    z-index: v-bind('config.zIndex');
+    /* 其他样式 */
+  }
+</style>

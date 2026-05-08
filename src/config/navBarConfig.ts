@@ -90,7 +90,7 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 			},
 			{
 				name: "AtCoder",
-				url: "https://atcoder.jp/",
+				url: "https://atcoder.jp/users/hcx_sgy",
 				external: true,
 				icon: "simple-icons:codio", 
 			},

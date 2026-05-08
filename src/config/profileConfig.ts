@@ -43,7 +43,7 @@ export const profileConfig: ProfileConfig = {
 			},
 			{
 				name: "AtCoder",
-				url: "https://atcoder.jp/",
+				url: "https://atcoder.jp/users/hcx_sgy",
 				icon: "simple-icons:codio", 
 			},
 			{

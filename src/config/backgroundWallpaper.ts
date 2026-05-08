@@ -75,7 +75,7 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 			titleSize: "3.8rem",
 			// 主页横幅副标题
 			subtitle: [
-				"愿君千万岁，无岁不逢春",
+				"月寒日暖,来煎人寿",
 			],
 			// 主页横幅副标题字体大小
 			subtitleSize: "1.5rem",

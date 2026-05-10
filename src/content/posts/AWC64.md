@@ -1,7 +1,7 @@
 ---
 title: AWC64
 published: 2026-05-07
-description: AWC64题解
+description: AWC64题解-AK
 image: ./cover.jpg
 tags: [训练,AtCoder,AWC]
 category: AWC

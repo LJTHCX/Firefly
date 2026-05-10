@@ -3,7 +3,7 @@ title: AWC65
 published: 2026-05-08
 description: AWC65题解
 image: ./cover.jpg
-tags: [训练,AWC]
+tags: [训练,AtCoder,AWC]
 category: AWC
 draft: False
 ---

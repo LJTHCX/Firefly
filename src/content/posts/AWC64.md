@@ -3,7 +3,7 @@ title: AWC64
 published: 2026-05-07
 description: AWC64题解
 image: ./cover.jpg
-tags: [训练,AWC]
+tags: [训练,AtCoder,AWC]
 category: AWC
 draft: False
 ---

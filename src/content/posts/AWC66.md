@@ -14,8 +14,7 @@ draft: False
 
 AB的题意很长，像是做阅读理解，CD倒是很板子，评价说CD比AB容易，E赛时写的DFS，当然是TLE了，正解是状压DP
 
-</details>
-<details> <summary><a>A - 模拟</a></summary>
+<details> <summary><a>A-模拟</a></summary>
 
 题意是对于给定序列a以及给定的操作序列b，对于每个bi将a\[i]的值加到a\[i+1]上，如果i+1 > n，则置零
 

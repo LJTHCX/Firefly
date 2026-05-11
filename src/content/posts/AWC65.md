@@ -1,7 +1,7 @@
 ---
 title: AWC65
 published: 2026-05-08
-description: AWC65题解-DE未补
+description: AWC65题解-solve-3-补DE
 image: ./cover.jpg
 tags: [训练,AtCoder,AWC]
 category: AWC

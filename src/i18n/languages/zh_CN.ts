@@ -251,9 +251,6 @@ export const zh_CN: Translation = {
 	[Key.siteStatsCategoryCount]: "分类",
 	[Key.siteStatsTagCount]: "标签",
 	[Key.siteStatsTotalWords]: "总字数",
-	[Key.siteStatsRunningDays]: "运行时长",
-	[Key.siteStatsDaysAgo]: "{days} 天前",
-	[Key.siteStatsDays]: "{days} 天",
 	[Key.today]: "今天",
 
 	// 日历组件

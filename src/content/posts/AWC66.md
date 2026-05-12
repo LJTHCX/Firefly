@@ -14,7 +14,7 @@ draft: False
 
 AB的题意很长，像是做阅读理解，CD倒是很板子，评价说CD比AB容易，E赛时写的DFS，当然是TLE了，正解是状压DP
 
-<details> <summary><a>A-模拟</a></summary>
+<details> <summary>A-模拟</summary>
 
 题意是对于给定序列a以及给定的操作序列b，对于每个bi将a\[i]的值加到a\[i+1]上，如果i+1 > n，则置零
 
@@ -31,7 +31,7 @@ print(*a[:-1])
 
 
 </details>
-<details> <summary><b>B-模拟</b></summary>
+<details> <summary>B-模拟</summary>
 
 雷霆题目，题目描述像是写小作文，理解起来非常困难，大致的题意如下：
 
@@ -71,7 +71,7 @@ print(*a[:-1])
 
 
 </details>
-<details> <summary><c>C-差分</c></summary>
+<details> <summary>C-差分</summary>
 按照题意差分即可
 
 ```python title="差分"
@@ -93,7 +93,7 @@ print(ans)
 ```
 
 </details>
-<details> <summary><d>D-二分答案</d></summary>
+<details> <summary>D-二分答案</summary>
 
 
 经典的二分答案求最小化最大值
@@ -126,7 +126,7 @@ print(right)
 ```
 
 </details>
-<details> <summary><e>E-状压DP</e></summary>
+<details> <summary>E-状压DP</summary>
 计算从 S 到 T 的所有简单路径上每条路径的顶点权重之和，并求得平均值
 
 ```python title="gpt5.3"

@@ -147,7 +147,28 @@ const stats = [
     });
 
 
+    // 更新最后活动时间
+    if (lastPostDate) {
+      const lastPost = new Date(lastPostDate);
+      const timeSinceLastPost = Math.abs(today.getTime() - lastPost.getTime());
+      const daysSinceLastUpdate = Math.floor(timeSinceLastPost / (1000 * 60 * 60 * 24));
 
+      const lastUpdateElements = document.querySelectorAll('[data-stat-id="last-update"]');
+      lastUpdateElements.forEach((element) => {
+        if (daysSinceLastUpdate === 0) {
+          element.textContent = todayText;
+          if (element.nextElementSibling) {
+            element.nextElementSibling.style.display = 'none';
+          }
+        } else {
+          element.textContent = daysSinceLastUpdate.toString();
+          if (element.nextElementSibling) {
+            element.nextElementSibling.style.display = '';
+          }
+        }
+      });
+    }
+  }
   // 页面加载时更新
   updateDynamicStats();
 

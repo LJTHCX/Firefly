@@ -22,7 +22,7 @@ Mid: C、B、E
 
 Hard: D
 </details>
-<details> <summary><a>A-模拟</a></summary>
+<details> <summary>A-模拟</summary>
 按照题意给定的三种情况模拟即可
 
 ```python title="模拟"
@@ -48,7 +48,7 @@ for _ in range(q):
 ```
 
 </details>
-<details> <summary><b>B-Kadane</b></summary>
+<details> <summary>B-Kadane</summary>
 
 给定 N 天的盈亏数据序列，问题是为每个 k=1,2,…,N 找出 "前 k 天的连续子序列的最大和"
 
@@ -85,7 +85,7 @@ for i in range(1,n):
 ```
 
 </details>
-<details> <summary><c>C-完全背包</c></summary>
+<details> <summary>C-完全背包</summary>
 每个食品可以无限购买，目标是使总天数达到或超过D所需要的最小成本
 
 ```python title="完全背包"
@@ -104,7 +104,7 @@ print(dp[d])
 ```
 
 </details>
-<details> <summary><d>D-Floyd</d></summary>
+<details> <summary>D-Floyd</summary>
 正解貌似是Dijkstra，但是Floyd可做
 
 ```python title="Floyd"
@@ -144,7 +144,7 @@ print(ans)
 ```
 
 </details>
-<details> <summary><e>E-bash尼莫博弈</e></summary>
+<details> <summary>E-bash尼莫博弈</summary>
 
 尼莫博弈的变题，
 

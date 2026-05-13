@@ -103,7 +103,7 @@ draft: False
   left: 4px;
   width: 2px;
   height: 40px;
-  background: #e2e8f0;
+  background: #2e2f30;
 }
 
 .timeline-item:last-child .timeline-dot::before {
@@ -143,7 +143,7 @@ draft: False
   .timeline-date { color: #60a5fa; }
   .timeline-dot { background: #60a5fa; }
   .timeline-dot::before { background: #334155; }
-  .timeline-content h3 { color: #f1f5f9; }
+  .timeline-content h3 { color: #181819; }
   .timeline-content p { color: #94a3b8; }
 }
 

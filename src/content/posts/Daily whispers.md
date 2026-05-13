@@ -12,38 +12,34 @@ category: Daily whispers
 draft: False
 ---
 <div class="timeline">
+
   <div class="timeline-item">
-    <div class="timeline-date">2024-01-15</div>
+    <div class="timeline-date">2025-04-01</div>
     <div class="timeline-dot"></div>
     <div class="timeline-content">
-      <h3>发布第一篇文章</h3>
-      <p>完成个人博客首篇文章，开启技术分享之旅。</p>
+      <h3>博客的诞生</h3>
+      <p>参考Firefly的开源项目诞生了这个博客</p>
     </div>
   </div>
+
   <div class="timeline-item">
-    <div class="timeline-date">2024-02-20</div>
+    <div class="timeline-date">2025-04-26</div>
     <div class="timeline-dot"></div>
     <div class="timeline-content">
-      <h3>完成博客搭建</h3>
-      <p>配置域名、主题优化、自动化部署上线。</p>
+      <h3>成为一名ACMer</h3>
+      <p>大三才开始学算法的我在今日正式进入校队成为一名ACMer!</p>
     </div>
   </div>
+
   <div class="timeline-item">
-    <div class="timeline-date">2024-03-10</div>
+    <div class="timeline-date">2025-05-01</div>
     <div class="timeline-dot"></div>
     <div class="timeline-content">
-      <h3>添加评论功能</h3>
-      <p>集成 Giscus 评论系统，方便互动交流。</p>
+      <h3>五一快乐</h3>
+      <p>目标是宅在宿舍5天</p>
     </div>
   </div>
-  <div class="timeline-item">
-    <div class="timeline-date">2024-04-05</div>
-    <div class="timeline-dot"></div>
-    <div class="timeline-content">
-      <h3>优化移动端显示</h3>
-      <p>响应式设计，提升移动端阅读体验。</p>
-    </div>
-  </div>
+
 </div>
 
 <style>

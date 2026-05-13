@@ -3,7 +3,7 @@
 title: Daily whispers
 published: 2026-05-13
 pinned: True
-password: "ljt1111111111"
+password: "0823"
 passwordHint: "密码四位数"
 description: Daily whispers
 image: ./cover.jpg

@@ -139,6 +139,7 @@ if __name__ == "__main__":
 
 </details>
 <details> <summary>D-区间覆盖+贪心</summary>
+
 **题意**
 
 - 有 N 个村庄，每个村庄有坐标 $X_i$ 和海拔 $P_i$。 &#x20;
@@ -221,6 +222,7 @@ if __name__ == "__main__":
 
 </details>
 <details> <summary>F-离线 + 树状数组</summary>
+
 **题意**
 
 有一个图书馆，共有 $  N  $ 个书架，从左到右编号 $  1  $ 到 $  N  $。 &#x20;

@@ -54,6 +54,7 @@ print(max_ - min_)
 
 </details>
 <details> <summary>C-并查集</summary>
+
 **题意：**
 
 有N个队伍，每个队伍只有一个人，且没有颜色
@@ -115,6 +116,7 @@ print(len(colors))
 
 </details>
 <details> <summary>D-Dijkstra最短路</summary>
+
 **题意：**
 
 - 图：N 个节点，M 条无向边，无重边。
@@ -142,6 +144,7 @@ print(len(colors))
 
 </details>
 <details> <summary>E-二维前缀和+滑窗</summary>
+
 **题意：**
 
 - 有一个 N×N 的网格，每个格子有风景得分 Ai,j。

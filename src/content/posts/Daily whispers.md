@@ -36,8 +36,8 @@ draft: False
     <div class="timeline-dot"></div>
     <div class="timeline-content">
       <h3>来煎人寿</h3>
-      <p>飞光飞光，劝尔一杯酒
-      吾不识青天高，黄地厚
+      <p>飞光飞光，劝尔一杯酒 
+      吾不识青天高，黄地厚 
       唯见月寒日暖，来煎人寿</p>
     </div>
   </div>
@@ -46,7 +46,7 @@ draft: False
     <div class="timeline-date">2025-05-14</div>
     <div class="timeline-dot"></div>
     <div class="timeline-content">
-      <h3>雪国</h3>
+      <h3>《雪国》</h3>
       <p>穿过县界长长的隧道，便是雪国我望着你映在玻璃上的脸，山野的灯火一闪而过，同你的双眼重叠的那一瞬间，像是夕阳余晖里飞舞的萤火，美得令人无法形容，仿佛驱散了所有寂寞，你纯粹的声音，从琐碎纷扰的时光中穿越而来，从激昂走向衰亡，从洁白走向萧瑟，就在那一刻银河仿佛哗啦一声，突然朝我的心房倾泻，甚至你连指尖，都泛出好看的颜色。</p>
     </div>
   </div>

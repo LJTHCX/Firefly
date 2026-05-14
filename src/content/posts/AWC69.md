@@ -19,7 +19,7 @@ Hard: D、C
 难度挺大的一场AWC，DEF都没做出来（菜菜/(ㄒoㄒ)/ \~\~）
 
 </details>
-<details> <summary>#### A/B-模拟</summary>
+<details> <summary>A/B-模拟</summary>
 A题意：
 
 给你N个股票，每个股票记录M天股价，计算股票的波动率，输出波动率最大的股票编号
@@ -60,7 +60,7 @@ print(sum(g[:k]))
 ```
 
 </details>
-<details> <summary>#### C-贪心+差分</summary>
+<details> <summary>C-贪心+差分</summary>
 **题意**
 
 - 有 $  N  $ 盏灯排成一行，初始状态由字符串 $  S  $ 给出（'1' 表示开，'0' 表示关）。
@@ -138,7 +138,7 @@ if __name__ == "__main__":
 ```
 
 </details>
-<details> <summary>#### D-区间覆盖+贪心</summary>
+<details> <summary>D-区间覆盖+贪心</summary>
 **题意**
 
 - 有 N 个村庄，每个村庄有坐标 $X_i$ 和海拔 $P_i$。 &#x20;
@@ -220,7 +220,7 @@ if __name__ == "__main__":
 
 
 </details>
-<details> <summary>#### F-离线 + 树状数组</summary>
+<details> <summary>F-离线 + 树状数组</summary>
 **题意**
 
 有一个图书馆，共有 $  N  $ 个书架，从左到右编号 $  1  $ 到 $  N  $。 &#x20;

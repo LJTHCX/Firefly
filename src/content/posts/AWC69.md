@@ -61,6 +61,7 @@ print(sum(g[:k]))
 
 </details>
 <details> <summary>C-贪心+差分</summary>
+
 **题意**
 
 - 有 $  N  $ 盏灯排成一行，初始状态由字符串 $  S  $ 给出（'1' 表示开，'0' 表示关）。

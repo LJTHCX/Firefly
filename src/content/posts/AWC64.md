@@ -1,5 +1,5 @@
 ---
-title: AWC64
+title: AWC64-01背包/最小生成树/树状数组+逆序对
 published: 2026-05-07
 description: AWC64题解-AK
 image: ./cover.jpg
@@ -20,9 +20,9 @@ A题翻译看了半天不知道在说什么，谷歌翻译成一坨，乱七八�
 
 #### 难度
 
-Easy:A,B,C
+Easy: A,B,C
 
-Mid:D,E
+Mid: D,E
 
 #### A-模拟
 

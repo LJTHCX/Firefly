@@ -1,5 +1,5 @@
 ---
-title: AWC65
+title: AWC65-曼哈顿距离+二维前缀和/双端队列+滑动窗口
 published: 2026-05-08
 description: AWC65题解-solve-3-补DE
 image: ./cover.jpg
@@ -82,7 +82,7 @@ else:
 ```
 
 
-#### D-马哈顿距离+二维前缀和
+#### D-曼哈顿距离+二维前缀和
 
 **题意：**
 

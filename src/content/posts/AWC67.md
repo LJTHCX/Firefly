@@ -1,5 +1,5 @@
 ---
-title: AWC67
+title: AWC67-完全背包/Floyd/bash尼莫博弈
 published: 2026-05-12
 description: AWC67题解-solve3-补BD
 image: ./cover.jpg

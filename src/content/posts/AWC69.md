@@ -222,7 +222,7 @@ if __name__ == "__main__":
 
 
 </details>
-<details> <summary>F-离线 + 树状数组</summary>
+<details> <summary>E-离线 + 树状数组</summary>
 
 **题意**
 

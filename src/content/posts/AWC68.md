@@ -142,6 +142,62 @@ print(len(colors))
 边：u\_out → v\_in 权值 1；v\_out → u\_in 权值 1 &#x20;
 节点内部：u\_in → u\_out 权值 = 1 if deg\[u] ≥ K and u not in {1, N} else 0
 
+```python title="Dijkstra 最短路"
+import heapq
+import sys
+
+def solve():
+    input = sys.stdin.readline
+    N, M, K = map(int, input().split())
+    g = [[] for _ in range(N + 1)]
+    degree = [0] * (N + 1)
+    for _ in range(M):
+        u, v = map(int, input().split())
+        g[u].append(v)
+        g[v].append(u)
+        degree[u] += 1
+        degree[v] += 1
+
+    # 拆点：0~N-1 为 in，N~2N-1 为 out
+    def in_node(x):
+        return x - 1
+    def out_node(x):
+        return N + x - 1
+
+    total_nodes = 2 * N
+    adj = [[] for _ in range(total_nodes)]
+    for u in range(1, N + 1):
+        # 内部边：in -> out
+        if u == 1 or u == N:
+            adj[in_node(u)].append((out_node(u), 0))
+        else:
+            adj[in_node(u)].append((out_node(u), 1 if degree[u] >= K else 0))
+        # 对外边：out -> 相邻的 in
+        for v in g[u]:
+            adj[out_node(u)].append((in_node(v), 1))
+
+    INF = 10**18
+    dist = [INF] * total_nodes
+    start = in_node(1)
+    dist[start] = 0
+    pq = [(0, start)]
+    while pq:
+        d, u = heapq.heappop(pq)
+        if d != dist[u]:
+            continue
+        for v, w in adj[u]:
+            nd = d + w
+            if nd < dist[v]:
+                dist[v] = nd
+                heapq.heappush(pq, (nd, v))
+
+    ans = dist[in_node(N)]
+    print(ans if ans != INF else -1)
+
+if __name__ == "__main__":
+    solve()
+```
+
 </details>
 <details> <summary>E-二维前缀和+滑窗</summary>
 
@@ -191,7 +247,7 @@ $$
 3. 对 `row_max` 的每一列，计算长度为 $  K  $ 的滑动窗口最大值，得到 `sub_max[i][j]` 表示左上角为 (i,j) 的 K×K 子矩阵的最大值。
 4. 对于每个 (i,j) 子矩阵，计算和 = `psum[i+K-1][j+K-1] - psum[i-1][j+K-1] - psum[i+K-1][j-1] + psum[i-1][j-1]`，然后减去 `sub_max[i][j]`，取最大值。
 
-```python 
+```python title="二维前缀和+滑窗"
 def solve():
     import sys
     input = sys.stdin.readline

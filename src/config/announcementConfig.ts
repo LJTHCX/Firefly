@@ -5,7 +5,7 @@ export const announcementConfig: AnnouncementConfig = {
 	title: "公告",
 
 	// 公告内容
-	content: "还活着.",
+	content: "16~17参加JSCPC停更.",
 
 	// 是否允许用户关闭公告
 	closable: true,

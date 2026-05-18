@@ -43,6 +43,15 @@ draft: False
   </div>
 
   <div class="timeline-item">
+    <div class="timeline-date">2025-05-08</div>
+    <div class="timeline-dot"></div>
+    <div class="timeline-content">
+      <h3>美赛S</h3>
+      <p>最抱有期望的美赛拿了最差的一次S,太伤心了....，辜负了太多的期待....</p>
+    </div>
+  </div>
+
+  <div class="timeline-item">
     <div class="timeline-date">2025-05-14</div>
     <div class="timeline-dot"></div>
     <div class="timeline-content">

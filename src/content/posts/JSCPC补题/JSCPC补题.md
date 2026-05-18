@@ -24,7 +24,7 @@ Mid：H、J、K
 
 **除ICA外其余题的题解均来自gemini3PRO，提供的代码均AC**
 
-[26年JSCPC.pdf](file/26年JSCPC_QkcuCD2AyV.pdf " 26年JSCPC.pdf")
+[26年JSCPC.pdf](https://qoj.ac/contest/3756 " 26年JSCPC.pdf")
 
 </details>
 <details> <summary>I-模拟题</summary>

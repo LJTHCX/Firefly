@@ -1,44 +1,42 @@
 ---
-title: Daily Whispers
-published: 2026-05-20
-pinned: True
+title: Name of Water
+published: 2026-04-01
 password: "0823"
 passwordHint: "密码是四位数,其实很简单,前两位不超过12,后两位不超过31"
-description: Daily whispers
+description: Name of Water
 image: ./cover.jpg
 tags: [Whispers]
 category: Whispers
 draft: False
 
 ---
+
 <div class="timeline">
 
   <div class="timeline-item">
-    <div class="timeline-date">2025-04-01</div>
+    <div class="timeline-date">2005-07-21</div>
     <div class="timeline-dot"></div>
     <div class="timeline-content">
-      <h3>博客的诞生</h3>
-      <p>参考Firefly的开源项目诞生了这个博客</p>
+      <h3>来到这世间</h3>
+      <p>开启地球online副本</p>
     </div>
   </div>
 
   <div class="timeline-item">
-    <div class="timeline-date">2025-04-26</div>
+    <div class="timeline-date">2020-07-12</div>
     <div class="timeline-dot"></div>
     <div class="timeline-content">
-      <h3>成为一名ACMer</h3>
-      <p>大三才开始学算法的我在今日正式进入校队成为一名ACMer!</p>
+      <h3>中考</h3>
+      <p>581+农村专项40分进入县重点</p>
     </div>
   </div>
 
   <div class="timeline-item">
-    <div class="timeline-date">2025-05-01</div>
+    <div class="timeline-date">2023-06-07</div>
     <div class="timeline-dot"></div>
     <div class="timeline-content">
-      <h3>来煎人寿</h3>
-      <p>飞光飞光，劝尔一杯酒 
-      吾不识青天高，黄地厚 
-      唯见月寒日暖，来煎人寿</p>
+      <h3>高考</h3>
+      <p>571分进入苏州科技大学</p>
     </div>
   </div>
 
@@ -46,35 +44,17 @@ draft: False
     <div class="timeline-date">2025-05-08</div>
     <div class="timeline-dot"></div>
     <div class="timeline-content">
-      <h3>美赛S</h3>
-      <p>最抱有期望的美赛拿了最差的一次S,太伤心了....，辜负了太多的期待....</p>
+      <h3>句号</h3>
+      <p>向TA表明心意,受到拒绝,前18年的所有故事画上句号</p>
     </div>
   </div>
 
   <div class="timeline-item">
-    <div class="timeline-date">2025-05-14</div>
+    <div class="timeline-date">2025-05-08</div>
     <div class="timeline-dot"></div>
     <div class="timeline-content">
-      <h3>《雪国》</h3>
-      <p>穿过县界长长的隧道，便是雪国我望着你映在玻璃上的脸，山野的灯火一闪而过，同你的双眼重叠的那一瞬间，像是夕阳余晖里飞舞的萤火，美得令人无法形容，仿佛驱散了所有寂寞，你纯粹的声音，从琐碎纷扰的时光中穿越而来，从激昂走向衰亡，从洁白走向萧瑟，就在那一刻银河仿佛哗啦一声，突然朝我的心房倾泻，甚至你连指尖，都泛出好看的颜色。</p>
-    </div>
-  </div>
-
-  <div class="timeline-item">
-    <div class="timeline-date">2025-05-17</div>
-    <div class="timeline-dot"></div>
-    <div class="timeline-content">
-      <h3>JSCPC</h3>
-      <p>第一次参加CCPC,一种难以言说的心情...  还会再来的...  未完待续!!!</p>
-    </div>
-  </div>
-
-  <div class="timeline-item">
-    <div class="timeline-date">2025-05-20</div>
-    <div class="timeline-dot"></div>
-    <div class="timeline-content">
-      <h3>破碎故事之心</h3>
-      <p>爱是想触碰又收回手</p>
+      <h3>未完待续...</h3>
+      <p>我还活着</p>
     </div>
   </div>
 

@@ -5,7 +5,7 @@ export const announcementConfig: AnnouncementConfig = {
 	title: "公告",
 
 	// 公告内容
-	content: "更新补充了'关于我'的内容.",
+	content: "更新补充了'关于我'、'Name of Water'、'Achieve'三部分内容以及新加了小红书账号链接(无抖音账号).",
 
 	// 是否允许用户关闭公告
 	closable: true,

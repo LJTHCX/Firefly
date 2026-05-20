@@ -3,8 +3,8 @@ title: JSCPC补题
 published: 2026-05-18
 description: 全是思维题补题太困难了
 image: ./cover.jpg
-tags: [比赛]
-category: 比赛
+tags: [contest]
+category: contest
 draft: False
 ---
 

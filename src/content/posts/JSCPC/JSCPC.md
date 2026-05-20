@@ -3,8 +3,8 @@ title: JSCPC
 published: 2026-05-17
 description: 为期两天的JSCPC打铁游行
 image: ./cover.jpg
-tags: [比赛]
-category: 比赛
+tags: [contest]
+category: contest
 draft: False
 ---
 

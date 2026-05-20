@@ -4,7 +4,7 @@ published: 2026-05-13
 description: AWC68题解-solve3-补DE
 image: ./cover.jpg
 tags: [训练,AtCoder,AWC]
-category: AWC
+category: AtCoder
 draft: False
 ---
 

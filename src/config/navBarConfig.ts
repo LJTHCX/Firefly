@@ -100,6 +100,13 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 				external: true,
 				icon: "simple-icons:bilibili",
 			},
+
+			{
+			"name": "小红书",
+			"url": "https://www.xiaohongshu.com/user/profile/68ef33a70000000037032eb0?tab=note&subTab=note",
+			"external": true,
+			"icon": "simple-icons:xiaohongshu"
+			},
 		],
 	});
 

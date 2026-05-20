@@ -4,7 +4,7 @@ published: 2026-05-14
 description: AWC69题解-solve2-补CDE
 image: ./cover.jpg
 tags: [训练,AtCoder,AWC]
-category: AWC
+category: AtCoder
 draft: False
 ---
 Easy: A、B

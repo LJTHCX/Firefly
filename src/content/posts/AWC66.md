@@ -4,7 +4,7 @@ published: 2026-05-11
 description: AWC66题解-solve4-补E
 image: ./cover.jpg
 tags: [训练,AtCoder,AWC]
-category: AWC
+category: AtCoder
 draft: False
 ---
 

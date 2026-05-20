@@ -51,5 +51,10 @@ export const profileConfig: ProfileConfig = {
 				url: "https://account.bilibili.com/account/home?spm_id_from=333.1387.0.0",
 				icon: "simple-icons:bilibili",
 			},
+			{
+				name: "小红书",
+				url: "https://www.xiaohongshu.com/user/profile/68ef33a70000000037032eb0?tab=note&subTab=note",
+				icon: "simple-icons:xiaohongshu"
+			},
 	],
 };

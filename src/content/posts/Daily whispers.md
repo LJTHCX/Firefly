@@ -4,7 +4,7 @@ title: Daily whispers
 published: 2026-05-17
 pinned: True
 password: "0823"
-passwordHint: "密码四位数"
+passwordHint: "密码是四位数,其实很简单,前两位不超过12,后两位不超过31"
 description: Daily whispers
 image: ./cover.jpg
 tags: [Daily whispers]
@@ -69,6 +69,14 @@ draft: False
     </div>
   </div>
 
+  <div class="timeline-item">
+    <div class="timeline-date">2025-05-20</div>
+    <div class="timeline-dot"></div>
+    <div class="timeline-content">
+      <h3>破碎故事之心</h3>
+      <p>爱是想触碰又收回手</p>
+    </div>
+  </div>
 
 </div>
 

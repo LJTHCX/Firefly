@@ -4,7 +4,7 @@ published: 2026-05-12
 description: AWC67题解-solve3-补BD
 image: ./cover.jpg
 tags: [训练,AtCoder,AWC]
-category: AWC
+category: AtCoder
 draft: False
 ---
 

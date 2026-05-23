@@ -1,9 +1,8 @@
 ---
 title: Name of Water
 published: 2026-04-01
-password: "0823"
-passwordHint: "密码是四位数,其实很简单,前两位不超过12,后两位不超过31"
-description: Name of Water
+password: "0721"
+description: Achieve
 image: ./cover.jpg
 tags: [Whispers]
 category: Whispers
@@ -11,50 +10,188 @@ draft: False
 
 ---
 
+# 大一
+
 <div class="timeline">
 
   <div class="timeline-item">
-    <div class="timeline-date">2005-07-21</div>
     <div class="timeline-dot"></div>
     <div class="timeline-content">
-      <h3>来到这世间</h3>
-      <p>开启地球online副本</p>
+      <h3>“智绘未来”苏州科技大学三维场景创作大赛   校赛二等奖</h3>
     </div>
   </div>
 
   <div class="timeline-item">
-    <div class="timeline-date">2020-07-12</div>
     <div class="timeline-dot"></div>
     <div class="timeline-content">
-      <h3>中考</h3>
-      <p>581+农村专项40分进入县重点</p>
+      <h3>2024苏州科技大学数学建模竞赛    校赛二等奖</h3>
     </div>
   </div>
 
   <div class="timeline-item">
-    <div class="timeline-date">2023-06-07</div>
     <div class="timeline-dot"></div>
     <div class="timeline-content">
-      <h3>高考</h3>
-      <p>571分进入苏州科技大学</p>
+      <h3>2024年第九届数维杯大学生数学建模挑战赛  三等奖</h3>
     </div>
   </div>
 
   <div class="timeline-item">
-    <div class="timeline-date">2025-05-08</div>
     <div class="timeline-dot"></div>
     <div class="timeline-content">
-      <h3>句号</h3>
-      <p>向TA表明心意,受到拒绝,前18年的所有故事画上句号</p>
+      <h3>2024年第十六届“中国机电工程学会杯”全国大学生电工数学建模竞赛  二等奖</h3>
     </div>
   </div>
 
   <div class="timeline-item">
-    <div class="timeline-date">2025-05-08</div>
     <div class="timeline-dot"></div>
     <div class="timeline-content">
-      <h3>未完待续...</h3>
-      <p>我还活着</p>
+      <h3>2024年第二十一届五一数学建模竞赛   二等奖</h3>
+    </div>
+  </div>
+
+  <div class="timeline-item">
+    <div class="timeline-dot"></div>
+    <div class="timeline-content">
+      <h3>2024年第十四届亚太地区大学生数学建模竞赛（中文赛项）  一等奖</h3>
+    </div>
+  </div>
+
+# 大二
+
+  <div class="timeline-item">
+    <div class="timeline-dot"></div>
+    <div class="timeline-content">
+      <h3>2024年阿里云天池大赛 优秀奖</h3>
+    </div>
+  </div>
+
+  <div class="timeline-item">
+    <div class="timeline-dot"></div>
+    <div class="timeline-content">
+      <h3>2024年首届中国青年汽车仿真建模大赛 - 树优赛道决赛三等奖</h3>
+    </div>
+  </div>
+
+  <div class="timeline-item">
+    <div class="timeline-dot"></div>
+    <div class="timeline-content">
+      <h3>授权软著三项</h3>
+    </div>
+  </div>
+
+  <div class="timeline-item">
+    <div class="timeline-dot"></div>
+    <div class="timeline-content">
+      <h3>2024年第十四届APMCM亚太地区大学生数学建模竞赛  First Prize</h3>
+    </div>
+  </div>
+
+  <div class="timeline-item">
+    <div class="timeline-dot"></div>
+    <div class="timeline-content">
+      <h3>2024第十三届认证杯数学中国数学建模国际赛  Honourable Mention</h3>
+    </div>
+  </div>
+
+  <div class="timeline-item">
+    <div class="timeline-dot"></div>
+    <div class="timeline-content">
+      <h3>2024年第十六届CMC全国大学生数学竞赛  江苏省二等奖</h3>
+    </div>
+  </div>
+
+  <div class="timeline-item">
+    <div class="timeline-dot"></div>
+    <div class="timeline-content">
+      <h3>2025年“正大杯”全国大学生市场调查与分析大赛   校赛二等奖</h3>
+    </div>
+  </div>
+
+  <div class="timeline-item">
+    <div class="timeline-dot"></div>
+    <div class="timeline-content">
+      <h3>2025年第二十届全国大学生文学作品大赛   全国二等奖</h3>
+    </div>
+  </div>
+
+  <div class="timeline-item">
+    <div class="timeline-dot"></div>
+    <div class="timeline-content">
+      <h3>2025年第十六届蓝桥杯全国软件和信息技术专业人才大赛 Python B组  三等奖</h3>
+    </div>
+  </div>
+
+  <div class="timeline-item">
+    <div class="timeline-dot"></div>
+    <div class="timeline-content">
+      <h3>2025年美国大学生数学建模竞赛  Honorable Mention</h3>
+    </div>
+  </div>
+
+  <div class="timeline-item">
+    <div class="timeline-dot"></div>
+    <div class="timeline-content">
+      <h3>2025年第二十二届五一数学建模竞赛 二等奖</h3>
+    </div>
+  </div>
+
+  <div class="timeline-item">
+    <div class="timeline-dot"></div>
+    <div class="timeline-content">
+      <h3>2025年统计建模大赛  校赛一等奖 省赛二等奖</h3>
+    </div>
+  </div>
+
+  <div class="timeline-item">
+    <div class="timeline-dot"></div>
+    <div class="timeline-content">
+      <h3>2025第二十二届“高教社杯”江苏省数学竞赛年江苏省数学竞赛 二等奖</h3>
+    </div>
+  </div>
+
+  <div class="timeline-item">
+    <div class="timeline-dot"></div>
+    <div class="timeline-content">
+      <h3>2025睿抗机器人开发者大赛（RAICOM2025）CAIP编程技能赛 省三</h3>
+    </div>
+  </div>
+
+# 大三
+
+  <div class="timeline-item">
+    <div class="timeline-dot"></div>
+    <div class="timeline-content">
+      <h3>第12届苏州科技大学程序设计竞赛 铜奖</h3>
+    </div>
+  </div>
+
+  <div class="timeline-item">
+    <div class="timeline-dot"></div>
+    <div class="timeline-content">
+      <h3>17届蓝桥杯pyb 省一
+    </h3>
+    </div>
+  </div>
+
+  <div class="timeline-item">
+    <div class="timeline-dot"></div>
+    <div class="timeline-content">
+      <h3>2026团体程序设计天梯赛 省三
+        </h3>
+    </div>
+  </div>
+
+  <div class="timeline-item">
+    <div class="timeline-dot"></div>
+    <div class="timeline-content">
+      <h3>计算机设计大赛 校一</h3>
+    </div>
+  </div>
+
+  <div class="timeline-item">
+    <div class="timeline-dot"></div>
+    <div class="timeline-content">
+      <h3>2024年第十七届CMC全国大学生数学竞赛  江苏省三等奖</h3>
     </div>
   </div>
 

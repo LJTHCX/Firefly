@@ -145,7 +145,7 @@ draft: False
   <div class="timeline-item">
     <div class="timeline-dot"></div>
     <div class="timeline-content">
-      <h3>2025第二十二届“高教社杯”江苏省数学竞赛年江苏省数学竞赛 二等奖</h3>
+      <h3>2025第二十二届“高教社杯”江苏省数学竞赛 二等奖</h3>
     </div>
   </div>
 

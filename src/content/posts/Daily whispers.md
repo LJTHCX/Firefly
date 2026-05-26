@@ -1,6 +1,6 @@
 ---
 title: Daily Whispers
-published: 2026-05-20
+published: 2026-05-26
 pinned: True
 password: "0823"
 passwordHint: "密码是四位数,其实很简单,前两位不超过12,后两位不超过31"
@@ -75,6 +75,16 @@ draft: False
     <div class="timeline-content">
       <h3>破碎故事之心</h3>
       <p>爱是想触碰又收回手</p>
+    </div>
+  </div>
+
+  <div class="timeline-item">
+    <div class="timeline-date">2025-05-26</div>
+    <div class="timeline-dot"></div>
+    <div class="timeline-content">
+      <h3>青瓦台</h3>
+      <p>愿为江水，与君重逢</p>
+      <p>草帽遮不住少年的自卑，也遮不住少年的志气</p>
     </div>
   </div>
 

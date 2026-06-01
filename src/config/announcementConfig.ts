@@ -5,7 +5,7 @@ export const announcementConfig: AnnouncementConfig = {
 	title: "公告",
 
 	// 公告内容
-	content: "突然很喜欢读自传",
+	content: "还活着",
 
 	// 是否允许用户关闭公告
 	closable: true,

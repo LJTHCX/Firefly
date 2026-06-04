@@ -14,6 +14,61 @@ draft: False
 <div class="timeline">
 
   <div class="timeline-item">
+    <div class="timeline-date">2007-01-01</div>
+    <div class="timeline-dot"></div>
+    <div class="timeline-content">
+      <h3>河南</h3>
+      <p>逃避计划生育来到河南</p>
+    </div>
+  </div>
+
+  <div class="timeline-item">
+    <div class="timeline-date">2010-01-01</div>
+    <div class="timeline-dot"></div>
+    <div class="timeline-content">
+      <h3>江苏-宿迁</h3>
+      <p>在宿迁上幼儿园</p>
+    </div>
+  </div>
+
+  <div class="timeline-item">
+    <div class="timeline-date">2011-09-01</div>
+    <div class="timeline-dot"></div>
+    <div class="timeline-content">
+      <h3>江苏-徐州</h3>
+      <p>在徐州上小学</p>
+    </div>
+  </div>
+
+  <div class="timeline-item">
+    <div class="timeline-date">2023-09-01</div>
+    <div class="timeline-dot"></div>
+    <div class="timeline-content">
+      <h3>江苏-苏州</h3>
+      <p>在苏州上大学</p>
+    </div>
+  </div>
+
+  <div class="timeline-item">
+    <div class="timeline-date">2024-11-02</div>
+    <div class="timeline-dot"></div>
+    <div class="timeline-content">
+      <h3>北京</h3>
+      <p>参加首届中国青年汽车仿真建模大赛</p>
+    </div>
+  </div>
+
+  <div class="timeline-item">
+    <div class="timeline-date">2025-05-23</div>
+    <div class="timeline-dot"></div>
+    <div class="timeline-content">
+      <h3>江苏-泰州</h3>
+      <p>参加周培源力学大赛</p>
+    </div>
+  </div>
+
+
+  <div class="timeline-item">
     <div class="timeline-date">2025-04-01</div>
     <div class="timeline-dot"></div>
     <div class="timeline-content">
@@ -64,8 +119,8 @@ draft: False
     <div class="timeline-date">2025-05-17</div>
     <div class="timeline-dot"></div>
     <div class="timeline-content">
-      <h3>JSCPC</h3>
-      <p>第一次参加CCPC,一种难以言说的心情...  还会再来的...  未完待续!!!</p>
+      <h3>江苏-南京</h3>
+      <p>第一次参加JSCPC,一种难以言说的心情...  还会再来的...  未完待续!!!</p>
     </div>
   </div>
 
@@ -85,6 +140,15 @@ draft: False
       <h3>青瓦台</h3>
       <p>愿为江水，与君重逢</p>
       <p>草帽遮不住少年的自卑，也遮不住少年的志气</p>
+    </div>
+  </div>
+
+  <div class="timeline-item">
+    <div class="timeline-date">2025-06-05</div>
+    <div class="timeline-dot"></div>
+    <div class="timeline-content">
+      <h3>江苏-无锡</h3>
+      <p>参加蓝桥杯国赛</p>
     </div>
   </div>
 

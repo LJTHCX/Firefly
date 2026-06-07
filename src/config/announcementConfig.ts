@@ -5,7 +5,7 @@ export const announcementConfig: AnnouncementConfig = {
 	title: "公告",
 
 	// 公告内容
-	content: "我一生的价值不及15便士",
+	content: "我一生的价值不及十五便士",
 
 	// 是否允许用户关闭公告
 	closable: true,

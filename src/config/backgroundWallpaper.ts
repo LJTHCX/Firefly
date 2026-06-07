@@ -75,7 +75,8 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 			titleSize: "3.8rem",
 			// 主页横幅副标题
 			subtitle: [
-				"愿你疯狂的巨大努力,找到少年神祗纯净的爱",
+				"期盼与祈祷  彷徨与等待",
+				"以至漫漫长夏  如火如荼"
 			],
 			// 主页横幅副标题字体大小
 			subtitleSize: "1.5rem",

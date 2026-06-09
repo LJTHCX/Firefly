@@ -175,6 +175,11 @@ export const siteConfig: SiteConfig = {
 		googleAnalyticsId: "",
 		// Microsoft Clarity ID
 		microsoftClarityId: "",
+		// Vercel Web Analytics 配置
+		vercelAnalytics: {
+			// 是否启用 Vercel Web Analytics
+			enabled: false,
+		},
 		// Umami 统计配置
 		umamiAnalytics: {
 			// Umami Website ID
@@ -218,7 +223,7 @@ export const siteConfig: SiteConfig = {
 
 	// 图像优化及响应式配置
 	// 图像优化压缩只保留avif或webp
-	// 响应式图像是为在不同设备上提高性能而调整的图像。这些图像可以调整大小以适应其容器，并且可以根据访问者的屏幕尺寸和分辨率以不同的大小提供。
+	// 响应式图像是为在不同设备上提高性能而调整的图像。这些图像可以调整大小以适应其���器，并且可以根据访问者的屏幕尺寸和分辨率以不同的大小提供。
 	// Astro 仅能对 src 目录下的图像进行优化，src 目录下的图像越多，构建时间会越长
 	// Astro 图像文档 https://docs.astro.build/zh-cn/guides/images/
 	imageOptimization: {

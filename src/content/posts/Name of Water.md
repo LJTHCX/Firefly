@@ -1,7 +1,7 @@
 ---
 title: Name of Water
 published: 2026-04-01
-password: "0721"
+password: "0000"
 description: Achieve
 image: ./cover.jpg
 tags: [Whispers]

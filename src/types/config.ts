@@ -115,6 +115,9 @@ export type SiteConfig = {
 	analytics?: {
 		googleAnalyticsId?: string; // Google Analytics ID
 		microsoftClarityId?: string; // Microsoft Clarity ID
+		vercelAnalytics?: {
+			enabled?: boolean; // 是否启用 Vercel Web Analytics，默认 false
+		};
 		umamiAnalytics?: {
 			websiteId?: string; // Umami Website ID
 			scriptUrl?: string; // Umami JS地址，支持使用自建
@@ -473,7 +476,7 @@ export type SakuraConfig = {
 	zIndex: number; // 层级，确保樱花在合适的层级显示
 };
 
-// Spine 看板娘配置
+// Spine 看板���配置
 export type SpineModelConfig = {
 	enable: boolean; // 是否启用 Spine 看板娘
 	model: {
@@ -485,7 +488,7 @@ export type SpineModelConfig = {
 	position: {
 		corner: "bottom-left" | "bottom-right" | "top-left" | "top-right"; // 显示位置
 		offsetX?: number; // 水平偏移量，默认20px
-		offsetY?: number; // 垂直偏移量，默认20px
+		offsetY?: number; // ��直偏移量，默认20px
 	};
 	size: {
 		width?: number; // 容器宽度，默认280px

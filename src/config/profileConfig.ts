@@ -21,40 +21,40 @@ export const profileConfig: ProfileConfig = {
 	// `pnpm add @iconify-json/<icon-set-name>`
 	// showName: true 时显示图标和名称，false 时只显示图标
 	links: [
-			{
-				name: "GitHub",
-				url: "https://github.com/LJTHCX",
-				icon: "fa7-brands:github",
-			},
-			{
-				name: "leetcode",
-				url: "https://leetcode.cn/u/7a7a68/",
-				icon: "fa7-brands:leetcode",
-			},
-			{
-				name: "Codeforces",
-				url: "https://codeforces.com/profile/7a7a68",
-				icon: "simple-icons:codeforces",
-			},
-			{
-				name: "洛谷",
-				url: "https://www.luogu.com.cn/user/1736929",
-				icon: "simple-icons:luogu",
-			},
-			{
-				name: "AtCoder",
-				url: "https://atcoder.jp/users/hcx_sgy",
-				icon: "simple-icons:codio", 
-			},
-			{
-				name: "哔哩哔哩",
-				url: "https://account.bilibili.com/account/home?spm_id_from=333.1387.0.0",
-				icon: "simple-icons:bilibili",
-			},
-			{
-				name: "小红书",
-				url: "https://www.xiaohongshu.com/user/profile/68ef33a70000000037032eb0?tab=note&subTab=note",
-				icon: "simple-icons:xiaohongshu"
-			},
+		{
+			name: "GitHub",
+			url: "https://github.com/LJTHCX",
+			icon: "fa7-brands:github",
+		},
+		{
+			name: "leetcode",
+			url: "https://leetcode.cn/u/7a7a68/",
+			icon: "fa7-brands:leetcode",
+		},
+		{
+			name: "Codeforces",
+			url: "https://codeforces.com/profile/7a7a68",
+			icon: "simple-icons:codeforces",
+		},
+		{
+			name: "洛谷",
+			url: "https://www.luogu.com.cn/user/1736929",
+			icon: "simple-icons:luogu",
+		},
+		{
+			name: "AtCoder",
+			url: "https://atcoder.jp/users/hcx_sgy",
+			icon: "simple-icons:codio",
+		},
+		{
+			name: "哔哩哔哩",
+			url: "https://account.bilibili.com/account/home?spm_id_from=333.1387.0.0",
+			icon: "simple-icons:bilibili",
+		},
+		{
+			name: "小红书",
+			url: "https://www.xiaohongshu.com/user/profile/68ef33a70000000037032eb0?tab=note&subTab=note",
+			icon: "simple-icons:xiaohongshu",
+		},
 	],
 };

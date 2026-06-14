@@ -3,8 +3,8 @@ title: 力扣505周赛-①回溯/动态规划+位运算②单调队列优化DP�
 published: 2026-06-08
 description: 力扣505周赛-solve2-补Q3Q4
 image: ./cover.jpg
-tags: [训练,力扣,周赛]
-category: 力扣
+tags: [训练,LeetCode周赛]
+category: LeetCode
 draft: False
 ---
 

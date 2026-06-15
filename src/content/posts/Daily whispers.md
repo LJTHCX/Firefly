@@ -8,8 +8,8 @@ image: ./cover.jpg
 tags: [Whispers]
 category: Whispers
 draft: False
-
 ---
+
 <div class="timeline">
 
   <div class="timeline-item">

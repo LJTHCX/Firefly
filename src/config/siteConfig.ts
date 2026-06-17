@@ -7,10 +7,10 @@ const SITE_LANG = "zh_CN";
 
 export const siteConfig: SiteConfig = {
 	// 站点标题
-	title: "7a7a68",
+	title: "Waning",
 
 	// 站点副标题
-	subtitle: "hcx_sgy",
+	subtitle: "Waning",
 
 	// 站点 URL
 	site_url: "http://blog.7a7a68.xyz/",
@@ -20,7 +20,7 @@ export const siteConfig: SiteConfig = {
 
 	// 站点关键词
 	keywords: [
-		"7a7a68",
+		"Waning",
 		"Fuwari",
 		"Astro",
 		"ACGN",

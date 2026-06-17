@@ -28,7 +28,7 @@ export const profileConfig: ProfileConfig = {
 			},
 			{
 				name: "leetcode",
-				url: "https://leetcode.cn/u/7a7a68/",
+				url: "https://leetcode.cn/u/waning/",
 				icon: "fa7-brands:leetcode",
 			},
 			{

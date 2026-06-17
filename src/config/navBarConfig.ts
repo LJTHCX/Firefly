@@ -72,7 +72,7 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 			},
 			{
 				name: "leetcode",
-				url: "https://leetcode.cn/u/7a7a68/",
+				url: "https://leetcode.cn/u/waning/",
 				external: true,
 				icon: "fa7-brands:leetcode",
 			},

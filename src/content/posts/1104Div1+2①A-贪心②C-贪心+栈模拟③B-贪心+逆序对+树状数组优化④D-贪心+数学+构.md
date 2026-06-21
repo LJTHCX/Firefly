@@ -1,5 +1,5 @@
 ---
-title: 1104Div1+2①A-贪心②C-贪心+栈模拟③B-贪心+逆序对+树状数组优化④D-贪心+数学+构造⑤E-贪心+图论
+title: 1104-Div1+2①A-贪心②C-贪心+栈模拟③B-贪心+逆序对+树状数组优化④D-贪心+数学+构造⑤E-贪心+图论
 published: 2026-06-19
 description: 1104Div1+2-solve3-补D-E
 image: ./cover.jpg

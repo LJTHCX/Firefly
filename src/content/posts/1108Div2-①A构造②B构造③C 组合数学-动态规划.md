@@ -3,7 +3,7 @@ title: P1108Div2-①A构造②B构造③C组合数学/动态规划
 published: 2026-07-13
 description: 1108Div2
 image: ./cover.jpg
-tags: [训练,Codeforces,Div1+2]
+tags: [训练,Codeforces,Div2]
 category: Codeforces
 draft: False
 ---

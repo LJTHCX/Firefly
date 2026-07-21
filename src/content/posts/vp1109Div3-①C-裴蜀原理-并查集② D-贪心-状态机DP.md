@@ -3,7 +3,7 @@ title: 1109Div3-①C-裴蜀原理/并查集②D-贪心/状态机DP
 published: 2026-07-20
 description: 1109Div3
 image: ./cover.jpg
-tags: [训练,Codeforces,Div3]
+tags: [训练,Codeforces,Div3,vp]
 category: Codeforces
 draft: False
 ---

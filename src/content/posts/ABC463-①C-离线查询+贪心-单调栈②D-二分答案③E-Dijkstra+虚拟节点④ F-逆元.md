@@ -3,8 +3,8 @@ title: ABC463-①C-离线查询+贪心/单调栈②D-二分答案③E-Dijkstra+�
 published: 2026-06-21
 description: ABC463-solve4-补EF
 image: ./cover.jpg
-tags: [训练,AtCoder,ABC]
-category: AtCoder
+tags: [算法训练,AtCoder,ABC]
+category: 算法训练
 draft: False
 ---
 

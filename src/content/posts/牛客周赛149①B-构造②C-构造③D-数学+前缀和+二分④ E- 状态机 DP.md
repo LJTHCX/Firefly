@@ -3,8 +3,8 @@ title: 牛客周赛149①B-构造②C-构造③D-数学+前缀和+二分④E-状
 published: 2026-06-24
 description: 牛客周赛149
 image: ./cover.jpg
-tags: [训练,nowcoder,周赛]
-category: nowcoder
+tags: [算法训练,nowcoder周赛]
+category: 算法训练
 draft: False
 ---
 

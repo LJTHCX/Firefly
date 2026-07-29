@@ -4,8 +4,8 @@ published: 2026-04-01
 password: "0000"
 description: Achieve
 image: ./cover.jpg
-tags: [Whispers]
-category: Whispers
+tags: [随笔]
+category: 随笔
 draft: False
 
 ---

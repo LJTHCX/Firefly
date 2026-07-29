@@ -3,8 +3,8 @@ title: AWC64-01背包/最小生成树/树状数组+逆序对
 published: 2026-05-07
 description: AWC64题解-AK
 image: ./cover.jpg
-tags: [训练,AtCoder,AWC]
-category: AtCoder
+tags: [算法训练,AtCoder,AWC]
+category: 算法训练
 draft: False
 ---
 

@@ -3,8 +3,8 @@ title: AWC65-曼哈顿距离+二维前缀和/双端队列+滑动窗口
 published: 2026-05-08
 description: AWC65题解-solve-3-补DE
 image: ./cover.jpg
-tags: [训练,AtCoder,AWC]
-category: AtCoder
+tags: [算法训练,AtCoder,AWC]
+category: 算法训练
 draft: False
 ---
 

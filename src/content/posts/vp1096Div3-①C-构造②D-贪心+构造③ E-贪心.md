@@ -3,8 +3,8 @@ title: vp1096Div3-①C-构造②D-贪心+构造③E-贪心
 published: 2026-07-21
 description: 1096Div3
 image: ./cover.jpg
-tags: [训练,Codeforces,Div3,vp]
-category: Codeforces
+tags: [算法训练,Codeforces,Div3,vp]
+category: 算法训练
 draft: False
 ---
 

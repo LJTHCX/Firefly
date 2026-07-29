@@ -3,8 +3,8 @@ title: ABC466-①D:逆序处理②E:K次最大子段和③F:优先队列
 published: 2026-07-11
 description: ABC466
 image: ./cover.jpg
-tags: [训练,AtCoder,ABC]
-category: AtCoder
+tags: [算法训练,AtCoder,ABC]
+category: 算法训练
 draft: False
 ---
 

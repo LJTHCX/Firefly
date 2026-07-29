@@ -3,8 +3,8 @@ title: vp1084Div3-①B-贪心②C-栈模拟③D-贪心④E-博弈+质因数分�
 published: 2026-07-24
 description: 1084Div3
 image: ./cover.jpg
-tags: [训练,Codeforces,Div3,vp]
-category: Codeforces
+tags: [算法训练,Codeforces,Div3,vp]
+category: 算法训练
 draft: False
 ---
 

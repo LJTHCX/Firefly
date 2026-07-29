@@ -3,8 +3,8 @@ title: AWC66-二分答案/状压DP
 published: 2026-05-11
 description: AWC66题解-solve4-补E
 image: ./cover.jpg
-tags: [训练,AtCoder,AWC]
-category: AtCoder
+tags: [算法训练,AtCoder,AWC]
+category: 算法训练
 draft: False
 ---
 

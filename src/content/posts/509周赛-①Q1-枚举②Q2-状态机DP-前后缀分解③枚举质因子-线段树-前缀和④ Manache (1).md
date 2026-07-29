@@ -3,8 +3,8 @@ title: 509周赛-①Q1-枚举②Q2-状态机DP/前后缀分解③枚举质因子
 published: 2026-07-05
 description: LeetCode509周赛
 image: ./cover.jpg
-tags: [训练,LeetCode周赛]
-category: LeetCode
+tags: [算法训练,LeetCode周赛]
+category: 算法训练
 draft: False
 ---
 

@@ -3,8 +3,8 @@ title: ABC465-①C-双端队列②D-最近公共祖先③E-数位DP
 published: 2026-07-05
 description: ABC465
 image: ./cover.jpg
-tags: [训练,AtCoder,ABC]
-category: AtCoder
+tags: [算法训练,AtCoder,ABC]
+category: 算法训练
 draft: False
 ---
 

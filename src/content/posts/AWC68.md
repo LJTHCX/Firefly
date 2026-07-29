@@ -3,8 +3,8 @@ title: AWC68-并查集/Dijkstra最短路/二维前缀和+滑窗
 published: 2026-05-13
 description: AWC68题解-solve3-补DE
 image: ./cover.jpg
-tags: [训练,AtCoder,AWC]
-category: AtCoder
+tags: [算法训练,AtCoder,AWC]
+category: 算法训练
 draft: False
 ---
 

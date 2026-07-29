@@ -3,8 +3,8 @@ title: 牛客周赛154-①B-贪心+构造②C-贪心③D-差分+环形结构④E
 published: 2026-07-27
 description: 牛客周赛154
 image: ./cover.jpg
-tags: [训练,nowcoder,周赛]
-category: nowcoder
+tags: [算法训练,nowcoder周赛]
+category: 算法训练
 draft: False
 ---
 

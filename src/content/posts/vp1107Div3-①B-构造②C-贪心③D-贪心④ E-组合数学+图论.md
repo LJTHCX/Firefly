@@ -3,8 +3,8 @@ title: vp1107Div3-①B-构造②C-贪心③D-贪心④E-组合数学+图论
 published: 2026-07-22
 description: 1107Div3
 image: ./cover.jpg
-tags: [训练,Codeforces,Div3,vp]
-category: Codeforces
+tags: [算法训练,Codeforces,Div3,vp]
+category: 算法训练
 draft: False
 ---
 

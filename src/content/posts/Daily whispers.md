@@ -5,8 +5,8 @@ pinned: True
 password: "0000"
 description: Daily whispers
 image: ./cover.jpg
-tags: [Whispers]
-category: Whispers
+tags: [随笔]
+category: 随笔
 draft: False
 ---
 

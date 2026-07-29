@@ -3,8 +3,8 @@ title: ABC460-多源BFS+欧几里得
 published: 2026-06-01
 description: ABC457-solve3-补DE
 image: ./cover.jpg
-tags: [训练,AtCoder,ABC]
-category: AtCoder
+tags: [算法训练,AtCoder,ABC]
+category: 算法训练
 draft: False
 ---
 

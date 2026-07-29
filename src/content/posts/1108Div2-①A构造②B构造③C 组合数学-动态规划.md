@@ -1,5 +1,5 @@
 ---
-title: P1108Div2-①A构造②B构造③C组合数学/动态规划
+title: 1108Div2-①A构造②B构造③C组合数学/动态规划
 published: 2026-07-13
 description: 1108Div2
 image: ./cover.jpg

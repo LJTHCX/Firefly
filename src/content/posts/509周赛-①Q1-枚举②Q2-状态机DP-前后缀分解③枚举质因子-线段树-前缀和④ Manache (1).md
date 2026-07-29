@@ -1,5 +1,5 @@
 ---
-title: 509周赛-①Q1-枚举②Q2-状态机DP/前后缀分解③枚举质因子/线段树/前缀和④Manacher
+title: "[算法训练] 509周赛-①Q1-枚举②Q2-状态机DP/前后缀分解③枚举质因子/线段树/前缀和④Manacher"
 published: 2026-07-05
 description: LeetCode509周赛
 image: ./cover.jpg

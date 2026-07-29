@@ -1,7 +1,7 @@
 ---
-title: AWC65-曼哈顿距离+二维前缀和/双端队列+滑动窗口
+title: "[算法训练] AWC65-①曼哈顿距离②二维前缀和/双端队列③滑动窗口"
 published: 2026-05-08
-description: AWC65题解-solve-3-补DE
+description: AWC65
 image: ./cover.jpg
 tags: [算法训练,AtCoder,AWC]
 category: 算法训练

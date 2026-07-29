@@ -1,5 +1,5 @@
 ---
-title: 185双周赛-①Q1-构造②Q2-差分+贪心③Q3-DFS④Q4-数位DP
+title: "[算法训练] 185双周赛-①Q1-构造②Q2-差分+贪心③Q3-DFS④Q4-数位DP"
 published: 2026-06-21
 description: LeetCode185双周赛
 image: ./cover.jpg

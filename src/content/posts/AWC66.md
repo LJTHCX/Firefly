@@ -1,7 +1,7 @@
 ---
-title: AWC66-二分答案/状压DP
+title: "[算法训练] AWC66-①二分答案②状压DP"
 published: 2026-05-11
-description: AWC66题解-solve4-补E
+description: AWC66
 image: ./cover.jpg
 tags: [算法训练,AtCoder,AWC]
 category: 算法训练

@@ -1,5 +1,5 @@
 ---
-title: 186双周赛-①Q1-枚举②Q2-贪心/状态机DP③前缀和优化DP
+title: "[算法训练] 186双周赛-①Q1-枚举②Q2-贪心/状态机DP③前缀和优化DP"
 published: 2026-07-05
 description: LeetCode186双周赛
 image: ./cover.jpg

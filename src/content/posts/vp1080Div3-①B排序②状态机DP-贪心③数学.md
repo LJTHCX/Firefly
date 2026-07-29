@@ -1,5 +1,5 @@
 ---
-title: vp1080Div3-①B排序②状态机DP/贪心③数学
+title: "[算法训练] vp1080Div3-①B排序②状态机DP/贪心③数学"
 published: 2026-07-24
 description: 1080Div3
 image: ./cover.jpg

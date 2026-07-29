@@ -1,5 +1,5 @@
 ---
-title: 牛客周赛149①B-构造②C-构造③D-数学+前缀和+二分④E-状态机DP
+title: "[算法训练] 牛客周赛149①B-构造②C-构造③D-数学+前缀和+二分④E-状态机DP"
 published: 2026-06-24
 description: 牛客周赛149
 image: ./cover.jpg

@@ -1,7 +1,7 @@
 ---
-title: AWC67-完全背包/Floyd/bash尼莫博弈
+title: "[算法训练] AWC67-①完全背包②Floyd③bash尼莫博弈"
 published: 2026-05-12
-description: AWC67题解-solve3-补BD
+description: AWC67
 image: ./cover.jpg
 tags: [算法训练,AtCoder,AWC]
 category: 算法训练

@@ -1,7 +1,7 @@
 ---
-title: ABC463-①C-离线查询+贪心/单调栈②D-二分答案③E-Dijkstra+虚拟节点④F-逆元+组合数学
+title: "[算法训练] ABC463-①C-离线查询+贪心/单调栈②D-二分答案③E-Dijkstra+虚拟节点④F-逆元+组合数学"
 published: 2026-06-21
-description: ABC463-solve4-补EF
+description: ABC463
 image: ./cover.jpg
 tags: [算法训练,AtCoder,ABC]
 category: 算法训练

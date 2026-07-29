@@ -1,5 +1,5 @@
 ---
-title: ABC468-①C-DFS/托康展开②D-中心扩展③E-贡献法+逆元+前缀和
+title: "[算法训练] ABC468-①C-DFS/托康展开②D-中心扩展③E-贡献法+逆元+前缀和"
 published: 2026-07-25
 description: ABC468
 image: ./cover.jpg

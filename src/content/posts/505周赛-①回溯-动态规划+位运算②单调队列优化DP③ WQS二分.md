@@ -1,5 +1,5 @@
 ---
-title: 力扣505周赛-①回溯/动态规划+位运算②单调队列优化DP③WQS二分
+title: "[算法训练] 力扣505周赛-①回溯/动态规划+位运算②单调队列优化DP③WQS二分"
 published: 2026-06-08
 description: 力扣505周赛-solve2-补Q3Q4
 image: ./cover.jpg

@@ -1,5 +1,5 @@
 ---
-title: vp1096Div3-①C-构造②D-贪心+构造③E-贪心
+title: "[算法训练] vp1096Div3-①C-构造②D-贪心+构造③E-贪心"
 published: 2026-07-21
 description: 1096Div3
 image: ./cover.jpg

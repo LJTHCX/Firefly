@@ -1,5 +1,5 @@
 ---
-title: ABC465-①C-双端队列②D-最近公共祖先③E-数位DP
+title: "[算法训练] ABC465-①C-双端队列②D-最近公共祖先③E-数位DP"
 published: 2026-07-05
 description: ABC465
 image: ./cover.jpg

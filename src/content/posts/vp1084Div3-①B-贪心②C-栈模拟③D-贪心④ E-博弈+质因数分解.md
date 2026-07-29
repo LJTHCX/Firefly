@@ -1,5 +1,5 @@
 ---
-title: vp1084Div3-①B-贪心②C-栈模拟③D-贪心④E-博弈+质因数分解
+title: "[算法训练] vp1084Div3-①B-贪心②C-栈模拟③D-贪心④E-博弈+质因数分解"
 published: 2026-07-24
 description: 1084Div3
 image: ./cover.jpg

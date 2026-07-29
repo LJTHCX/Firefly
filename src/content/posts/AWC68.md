@@ -1,7 +1,7 @@
 ---
-title: AWC68-并查集/Dijkstra最短路/二维前缀和+滑窗
+title: "[算法训练] AWC68-①并查集②Dijkstra最短路③二维前缀和+滑窗"
 published: 2026-05-13
-description: AWC68题解-solve3-补DE
+description: AWC68
 image: ./cover.jpg
 tags: [算法训练,AtCoder,AWC]
 category: 算法训练

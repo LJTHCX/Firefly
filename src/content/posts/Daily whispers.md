@@ -1,5 +1,5 @@
 ---
-title: Daily Whispers
+title: "[随笔] Daily Whispers"
 published: 2026-06-05
 pinned: True
 password: "0000"

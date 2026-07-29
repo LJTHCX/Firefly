@@ -1,7 +1,7 @@
 ---
-title: ABC460-多源BFS+欧几里得
+title: "[算法训练] ABC460-①多源BFS②欧几里得"
 published: 2026-06-01
-description: ABC457-solve3-补DE
+description: ABC457
 image: ./cover.jpg
 tags: [算法训练,AtCoder,ABC]
 category: 算法训练

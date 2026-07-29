@@ -1,5 +1,5 @@
 ---
-title: Name of Water
+title: "[随笔] Name of Water"
 published: 2026-04-01
 password: "0000"
 description: Achieve

@@ -1,7 +1,7 @@
 ---
-title: AWC64-01背包/最小生成树/树状数组+逆序对
+title: "[算法训练] AWC64-①01背包②最小生成树③树状数组+逆序对"
 published: 2026-05-07
-description: AWC64题解-AK
+description: AWC64
 image: ./cover.jpg
 tags: [算法训练,AtCoder,AWC]
 category: 算法训练

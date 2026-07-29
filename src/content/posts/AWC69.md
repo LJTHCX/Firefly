@@ -1,7 +1,7 @@
 ---
-title: AWC69-贪心+差分/区间覆盖+贪心/离线处理+树状数组
+title: "[算法训练] AWC69-①贪心+差分②区间覆盖+贪心③离线处理+树状数组"
 published: 2026-05-14
-description: AWC69题解-solve2-补CDE
+description: AWC69
 image: ./cover.jpg
 tags: [算法训练,AtCoder,AWC]
 category: 算法训练

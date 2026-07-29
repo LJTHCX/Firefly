@@ -1,5 +1,5 @@
 ---
-title: JSCPC
+title: "[算法训练] JSCPC"
 published: 2026-05-17
 description: 为期两天的JSCPC打铁游行
 image: ./cover.jpg

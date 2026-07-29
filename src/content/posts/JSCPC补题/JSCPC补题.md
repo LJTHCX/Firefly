@@ -1,5 +1,5 @@
 ---
-title: JSCPC补题
+title: "[算法训练] JSCPC补题"
 published: 2026-05-18
 description: 全是思维题补题太困难了
 image: ./cover.jpg

@@ -1,5 +1,5 @@
 ---
-title: vp1107Div3-①B-构造②C-贪心③D-贪心④E-组合数学+图论
+title: "[算法训练] vp1107Div3-①B-构造②C-贪心③D-贪心④E-组合数学+图论"
 published: 2026-07-22
 description: 1107Div3
 image: ./cover.jpg

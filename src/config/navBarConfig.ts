@@ -92,7 +92,7 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 				name: "AtCoder",
 				url: "https://atcoder.jp/users/l7a7a68",
 				external: true,
-				icon: "simple-icons:codio", 
+				icon: "simple-icons:codio",
 			},
 			{
 				name: "哔哩哔哩",
@@ -102,10 +102,10 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 			},
 
 			{
-			"name": "小红书",
-			"url": "https://www.xiaohongshu.com/user/profile/68ef33a70000000037032eb0?tab=note&subTab=note",
-			"external": true,
-			"icon": "simple-icons:xiaohongshu"
+				name: "小红书",
+				url: "https://www.xiaohongshu.com/user/profile/68ef33a70000000037032eb0?tab=note&subTab=note",
+				external: true,
+				icon: "simple-icons:xiaohongshu",
 			},
 		],
 	});

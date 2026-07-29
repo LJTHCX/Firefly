@@ -74,10 +74,7 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 			// 主页横幅主标题字体大小
 			titleSize: "3.8rem",
 			// 主页横幅副标题
-			subtitle: [
-				"期盼与祈祷  彷徨与等待",
-				"以至漫漫长夏  如火如荼"
-			],
+			subtitle: ["期盼与祈祷  彷徨与等待", "以至漫漫长夏  如火如荼"],
 			// 主页横幅副标题字体大小
 			subtitleSize: "1.5rem",
 			typewriter: {

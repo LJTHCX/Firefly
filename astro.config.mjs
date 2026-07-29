@@ -32,6 +32,7 @@ import { remarkMermaid } from "./src/plugins/remark-mermaid.js";
 import { remarkPlantuml } from "./src/plugins/remark-plantuml.js";
 import { remarkReadingTime } from "./src/plugins/remark-reading-time.mjs";
 import mdx from "@astrojs/mdx";
+import vercel from "@astrojs/vercel";
 import rehypeEmailProtection from "./src/plugins/rehype-email-protection.mjs";
 import rehypeExternalLinks from "./src/plugins/rehype-external-links.mjs";
 import rehypeFigure from "./src/plugins/rehype-figure.mjs";
@@ -44,6 +45,12 @@ if (process.env.NODE_ENV === "development") {
 
 // https://astro.build/config
 export default defineConfig({
+	adapter: vercel({
+		webAnalytics: {
+			enabled: true,
+		},
+	}),
+
 	site: siteConfig.site_url,
 	
 	base: "/",

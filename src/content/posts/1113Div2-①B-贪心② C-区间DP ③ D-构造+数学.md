@@ -1,7 +1,7 @@
 ---
 title: "[算法训练] 1113Div2-①B-贪心②C-区间DP③D-构造+数学"
 published: 2026-08-02
-description: 1113Div2
+description: 1113Div2 - CD
 image: ./cover.jpg
 tags: [算法训练,Codeforces,Div2]
 category: 算法训练

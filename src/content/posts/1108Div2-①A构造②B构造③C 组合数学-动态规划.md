@@ -1,7 +1,7 @@
 ---
 title: "[算法训练] 1108Div2-①A构造②B构造③C组合数学/动态规划"
 published: 2026-07-13
-description: 1108Div2
+description: 1108Div2 - C
 image: ./cover.jpg
 tags: [算法训练,Codeforces,Div2]
 category: 算法训练

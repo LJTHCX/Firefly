@@ -7,10 +7,10 @@ const SITE_LANG = "zh_CN";
 
 export const siteConfig: SiteConfig = {
 	// 站点标题
-	title: "Waning",
+	title: "JulY",
 
 	// 站点副标题
-	subtitle: "Waning",
+	subtitle: "JulY",
 
 	// 站点 URL
 	site_url: "http://blog.7a7a68.xyz/",
@@ -20,7 +20,7 @@ export const siteConfig: SiteConfig = {
 
 	// 站点关键词
 	keywords: [
-		"Waning",
+		"JulY",
 		"Fuwari",
 		"Astro",
 		"ACGN",
@@ -75,10 +75,10 @@ export const siteConfig: SiteConfig = {
 		logo: {
 			type: "image",
 			value: "assets/images/7a7a68.jpg",
-			alt: "Waning",
+			alt: "JulY",
 		},
 		// 导航栏标题
-		title: "Waning",
+		title: "JulY",
 		// 全宽导航栏，导航栏是否占满屏幕宽度
 		widthFull: false,
 		// 导航菜单对齐方式，left：左对齐，center：居中
